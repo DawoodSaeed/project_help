@@ -10,3 +10,5 @@ And to download the angular cli (14.1.3) Globally: ```npm install -g @angular/cl
 And for the pyton you need to install the version 3.6.6: [Download Link](https://www.python.org/ftp/python/3.6.6/python-3.6.6-amd64.exe)
 
 
+SOME Helpful Tools:
+1. NVM for Node.js version manager for Windows: [Download Link](https://github.com/coreybutler/nvm-windows/releases/download/1.1.12/nvm-setup.exe)
